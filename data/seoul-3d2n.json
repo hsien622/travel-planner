@@ -1,0 +1,370 @@
+{
+ "id": "seoul-3d2n",
+ "title": "首爾 3 天 2 夜",
+ "city": "首爾",
+ "currency": "KRW",
+ "units_per_twd": 44,
+ "updated": "2026-11-13",
+ "summary": "第一次自由行：交通卡、購物退稅、住宿退稅一次排好。價格多為教學假設，出發前請查官方。",
+ "days": [
+  {
+   "title": "第1天：抵達與市區散步",
+   "items": [
+    {
+     "id": "d1-01",
+     "time": "09:30",
+     "name": "抵達仁川機場、通關",
+     "type": "transport",
+     "note": "免簽 90 日；入境卡可選紙本；2026-12-31 前免申請 K-ETA。",
+     "source": "https://www.boca.gov.tw/sp-foof-countrycp-01-1-6256a-1.html",
+     "status": "verified",
+     "cost": null
+    },
+    {
+     "id": "d1-02",
+     "time": "10:30",
+     "name": "購買 T-money 卡",
+     "type": "transport",
+     "note": "卡片約 2,500 至 4,000 韓元，另需儲值，備韓元現金；此處取 3,000 為教學假設。",
+     "source": "https://www.seoultourism.org/t-money-card-guide/",
+     "status": "community",
+     "cost": 3000
+    },
+    {
+     "id": "d1-03",
+     "time": "11:00",
+     "name": "搭機場鐵路進市區",
+     "type": "transport",
+     "note": "票價待確認；直達車需另購票（民間資料）。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": null
+    },
+    {
+     "id": "d1-04",
+     "time": "13:30",
+     "name": "飯店寄放行李或入住",
+     "type": "stay",
+     "note": "每晚 90,000 韓元為教學假設。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": 90000
+    },
+    {
+     "id": "d1-05",
+     "time": "15:00",
+     "name": "景福宮一帶散步",
+     "type": "sight",
+     "note": "門票與休館日待確認。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": null
+    },
+    {
+     "id": "d1-06",
+     "time": "18:30",
+     "name": "晚餐：烤肉",
+     "type": "food",
+     "note": "一人份價格為教學假設。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": 18000
+    },
+    {
+     "id": "d1-07",
+     "time": "20:30",
+     "name": "便利商店補給（水、零食）",
+     "type": "food",
+     "cost": null,
+     "note": "價格待確認。",
+     "source": "自行整理",
+     "status": "tbd"
+    },
+    {
+     "id": "d1-08",
+     "time": "21:30",
+     "name": "回飯店休息、確認明天行程",
+     "type": "tips",
+     "cost": null,
+     "note": "自行整理的提醒：確認交通卡餘額與明天出發時間。",
+     "source": "自行整理",
+     "status": "tbd"
+    }
+   ]
+  },
+  {
+   "title": "第2天：購物與夜景",
+   "items": [
+    {
+     "id": "d2-01",
+     "time": "09:00",
+     "name": "搭地鐵出門",
+     "type": "transport",
+     "note": "地鐵基本票價用卡 1,550 韓元（民間資料）。",
+     "source": "https://insideseoul.app/guides/seoul-transit-card-guide",
+     "status": "community",
+     "cost": 1550
+    },
+    {
+     "id": "d2-02",
+     "time": "10:00",
+     "name": "明洞購物",
+     "type": "sight",
+     "note": "貼 Tax Free 標誌的店，單筆 15,000 韓元以上可退稅，記得帶護照。",
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140736",
+     "status": "verified",
+     "cost": null
+    },
+    {
+     "id": "d2-06",
+     "time": "11:30",
+     "name": "弘大街頭逛逛",
+     "type": "sight",
+     "cost": null,
+     "note": "營業時間與路線待確認。",
+     "source": "自行整理",
+     "status": "tbd"
+    },
+    {
+     "id": "d2-03",
+     "time": "13:00",
+     "name": "午餐：便利商店簡餐",
+     "type": "food",
+     "note": "價格為教學假設。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": 6000
+    },
+    {
+     "id": "d2-04",
+     "time": "15:00",
+     "name": "咖啡休息",
+     "type": "food",
+     "note": "價格為教學假設。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": 5000
+    },
+    {
+     "id": "d2-05",
+     "time": "17:30",
+     "name": "南山首爾塔看夜景",
+     "type": "sight",
+     "note": "門票、交通與營業時間待確認。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": null
+    },
+    {
+     "id": "d2-07",
+     "time": "19:30",
+     "name": "晚餐：炸雞配啤酒",
+     "type": "food",
+     "cost": null,
+     "note": "價格待確認。",
+     "source": "自行整理",
+     "status": "tbd"
+    }
+   ]
+  },
+  {
+   "title": "第3天：退稅與返程",
+   "items": [
+    {
+     "id": "d3-05",
+     "time": "08:30",
+     "name": "早餐與整理行李",
+     "type": "food",
+     "cost": null,
+     "note": "價格待確認。",
+     "source": "自行整理",
+     "status": "tbd"
+    },
+    {
+     "id": "d3-06",
+     "time": "09:30",
+     "name": "確認護照、退稅單與登機證",
+     "type": "tips",
+     "cost": null,
+     "note": "自行整理的提醒：購物退稅需要護照與收據。",
+     "source": "自行整理",
+     "status": "tbd"
+    },
+    {
+     "id": "d3-01",
+     "time": "10:00",
+     "name": "退房並索取住宿退稅單",
+     "type": "stay",
+     "note": "須是指定飯店、個人旅客、30 晚內並直接付款；名單每季更新，出發前查最新一季。",
+     "source": "https://jayflyer.com/community/18-korea-hotel-vat-refund",
+     "status": "community",
+     "cost": null
+    },
+    {
+     "id": "d3-02",
+     "time": "12:00",
+     "name": "前往機場",
+     "type": "transport",
+     "note": "交通方式與票價待確認。",
+     "source": "自行整理",
+     "status": "tbd",
+     "cost": null
+    },
+    {
+     "id": "d3-03",
+     "time": "14:00",
+     "name": "機場辦理退稅",
+     "type": "tips",
+     "note": "機場退稅櫃檯沒有金額上限；商品須在購買後 3 個月內帶出境。",
+     "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140736",
+     "status": "verified",
+     "cost": null
+    },
+    {
+     "id": "d3-04",
+     "time": "15:30",
+     "name": "海關與隨身行李提醒",
+     "type": "tips",
+     "note": "隨身液體單件不超過 100 毫升；禁止從台灣攜帶豬肉入境。",
+     "source": "https://www.boca.gov.tw/sp-foof-countrycp-01-1-6256a-1.html",
+     "status": "verified",
+     "cost": null
+    }
+   ]
+  }
+ ],
+ "emergency": [
+  {
+   "label": "駐韓國代表處 24 小時",
+   "value": "+82-10-9080-2761"
+  },
+  {
+   "label": "駐釜山辦事處",
+   "value": "+82-10-4537-7961"
+  },
+  {
+   "label": "外交部緊急聯絡中心",
+   "value": "0800-085-095"
+  },
+  {
+   "label": "警察 / 消防救護 / 觀光諮詢",
+   "value": "112 / 119 / 1330"
+  }
+ ],
+ "checklist": [
+  {
+   "id": "c01",
+   "text": "確認護照效期（建議 6 個月以上）並帶晶片護照"
+  },
+  {
+   "id": "c02",
+   "text": "出發前查 K-ETA 與入境卡最新規定（2026-12-31 前免 K-ETA）"
+  },
+  {
+   "id": "c03",
+   "text": "投保旅遊平安與醫療保險"
+  },
+  {
+   "id": "c04",
+   "text": "到外交部旅外國人動態登錄登記行程，下載旅外安全指南 App"
+  },
+  {
+   "id": "c05",
+   "text": "準備少量韓元現金（儲值 T-money 常需現金）"
+  },
+  {
+   "id": "c06",
+   "text": "訂房前查最新一季住宿退稅名單"
+  },
+  {
+   "id": "c07",
+   "text": "確認行李液體規定與禁止攜帶品（豬肉不可帶）"
+  }
+ ],
+ "guides": [
+  {
+   "id": "g01",
+   "title": "入境與簽證",
+   "status": "verified",
+   "source": "https://www.boca.gov.tw/sp-foof-countrycp-01-1-6256a-1.html",
+   "points": [
+    "持有效護照可免簽入境韓國 90 日。",
+    "入境卡可填紙本；電子入境卡系統把台灣標示為「中國（台灣）」，外交部建議選紙本。",
+    "K-ETA 免申請至 2026-12-31，2027 年起請查最新公告。",
+    "Q-CODE 防疫表格：途中沒經過重點檢疫地區且無症狀者可免填。"
+   ]
+  },
+  {
+   "id": "g02",
+   "title": "交通卡怎麼選",
+   "status": "community",
+   "source": "https://blog.namanecard.com/zh/seoul-subway-guide-2026-t-money-climate-card-zh/",
+   "points": [
+    "T-money 通用地鐵、公車、多數計程車與便利商店；卡片約 2,500 至 4,000 韓元，儲值常需現金。",
+    "地鐵基本票價用卡 1,550 韓元（2025 年 6 月起）。",
+    "氣候同行卡短期票：1 天 5,000、2 天 8,000、3 天 10,000、5 天 15,000、7 天 20,000 韓元，另買卡約 3,000。",
+    "每天搭超過 4 趟左右，氣候同行卡才比 T-money 划算。"
+   ]
+  },
+  {
+   "id": "g03",
+   "title": "購物退稅",
+   "status": "verified",
+   "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140736",
+   "points": [
+    "每張收據滿 15,000 韓元才可退稅（舊制為 30,000，店家標示可能還是舊數字）。",
+    "即時退稅：單筆 15,000 至未滿 1,000,000，整趟累計 5,000,000 以內。",
+    "市區退稅櫃檯每張收據上限 6,000,000；機場退稅櫃檯沒有金額上限。",
+    "停留未滿 6 個月的外國旅客，商品須在購買後 3 個月內帶出境。",
+    "實拿金額會少於 10%，民間資料約 5% 到 8%。"
+   ]
+  },
+  {
+   "id": "g04",
+   "title": "住宿退稅",
+   "status": "community",
+   "source": "https://jayflyer.com/community/18-korea-hotel-vat-refund",
+   "points": [
+    "只有指定飯店可退，名單每季更新；2026 年第四季有 118 間。",
+    "個人旅客、連續住宿 30 晚內，須在退房後 3 個月內離境。",
+    "要直接付房費給飯店；訂房網站選到飯店付款也算。",
+    "退房時向櫃台索取退稅單，離境時領取，實拿會少於房費的 10%。",
+    "有民間資料提到這項制度可能在 2027 年 6 月底結束，尚未確定。"
+   ]
+  },
+  {
+   "id": "g05",
+   "title": "海關與攜帶物品",
+   "status": "verified",
+   "source": "https://www.boca.gov.tw/sp-foof-countrycp-01-1-6256a-1.html",
+   "points": [
+    "入境要填旅客攜帶物品申報單；超過 1 萬美元或等值外幣須申報。",
+    "自用免稅：酒 2 瓶（合計 2 公升）、捲菸 200 支、香水 60 毫升、800 美元以下禮品。",
+    "禁止從台灣攜帶豬肉入境，第一次違規罰 500 萬韓元。",
+    "隨身液體單件不超過 100 毫升，裝在 1 公升以內的透明夾鏈袋。"
+   ]
+  },
+  {
+   "id": "g06",
+   "title": "法律、保險與藥品",
+   "status": "verified",
+   "source": "https://www.boca.gov.tw/sp-trwa-print-2972-e7941-1.html",
+   "points": [
+    "未經同意拍攝他人或散布拍到的內容，最高可處 7 年以下徒刑或 5,000 萬韓元以下罰款。",
+    "建議出發前投保旅遊平安與醫療保險。",
+    "攜帶管制藥品要在出發前 10 個工作天向食藥處申請許可，並帶診斷證明與處方箋。"
+   ]
+  },
+  {
+   "id": "g07",
+   "title": "航班、天氣與轉機",
+   "status": "verified",
+   "source": "https://www.boca.gov.tw/sp-foof-countrycp-01-1-6256a-1.html",
+   "points": [
+    "航班資訊查仁川機場官網 www.airport.kr，天氣查韓國氣象廳 www.kma.go.kr。",
+    "颱風或大雪可能造成航班延誤或取消，出發前一天再確認。",
+    "過境轉機一般須在抵韓 24 小時內出境。"
+   ]
+  }
+ ]
+}
